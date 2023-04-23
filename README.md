@@ -12,36 +12,10 @@
 
 ## 技术栈
 ### 后端
-1. Java面向对象
-2. JavaWeb
-3. Sql Service、MySQL
-4. Git、Maven管理工具
-5. Spring
-6. SpringMyBatis、SpringMyBatis-Plus
-7. SpringBoot2
-8. Spring Gateway
-9. SpringCloud
-   1. RabbitMq
-   2. nacos
-   3. Docker
-   4. 分布式搜索
-10. Redis 
-12. ElasticStack
-    1. Elasticsearch
-    2. Kibana
-    3. Logstash
-13. 设计模式
-14. JMeter 压力测试
+Java面向对象、JavaWeb、Sql Service、MySQL、Git、Maven管理工具、Spring、SpringMyBatis、SpringMyBatis-Plus、SpringBoot2、Spring Gateway、Redis、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试
 
 ### 前端
-1. HTML、CSS
-2. JavaScript
-3. Nodejs
-4. Ajax
-5. Vue
-6. React
-7. TypeScript
-8. Ant Design Pro、Ant Design Vue、Ant Design React
+HTML、CSS、JavaScript、Nodejs、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design Pro、Ant Design Vue、Ant Design React
 
 ## GitHub汇总
 <a target="_blank" rel="noopener noreferrer nofollow" >
