@@ -9,9 +9,9 @@
 - 💬 关于我: [https://mp.weixin.qq.com/s/I3L7-iAqLRKRPw4vVg3bMA](https://mp.weixin.qq.com/s/I3L7-iAqLRKRPw4vVg3bMA)
 - ⚡ 爱好: **跑步，王者，漫画，旅游**
 
-### Github提交次数
-![](https://github-readme-stats.vercel.app/api?username=kongshier&show_icons=true&theme=radical)
-### 主要语言
+## GitHub汇总
+Github提交次数、主要语言
+![](https://github-readme-stats.vercel.app/api?username=kongshier&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongshier&layout=compact)]
 
 <h3 align="left">语言与工具:</h3>
