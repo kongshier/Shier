@@ -15,7 +15,7 @@
   <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=kongshier&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&hide_title=true&hide_border=true" style="max-width: 100%; vertical-align: middle;"/>
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" style="display: inline-block;">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongshier&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" style="max-width: 100%; vertical-align: middle;" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongshier&layout=compact&hide_border=true&hide_title=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" style="width: 200px; vertical-align: middle;" />
 </a> 
 
 <h3 align="left">语言与工具:</h3>
