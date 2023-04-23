@@ -4,7 +4,7 @@
 - 🌱 公众号： **猫十二懿**
 - 🏡 当前状态： **大三在校生**
 - 👨‍💻 定向： **全栈学习**
-- 📝 博客： [CSDN](https://blog.csdn.net/qq_56098191)|[十二博客](http://blog.kongshier.top)
+- 📝 博客： [CSDN](https://blog.csdn.net/qq_56098191) | [十二博客](http://blog.kongshier.top)
 - 🙌 个人笔记: [笔记总结](https://www.yuque.com/kcsshier/zpovmy)
 - 📫 邮箱： **k2927527234@gmail.com | 2927527234@qq.com**
 - 💬 关于我: [一点点介绍](https://mp.weixin.qq.com/s/I3L7-iAqLRKRPw4vVg3bMA)
