@@ -11,10 +11,10 @@
 
 ## GitHub汇总
 
-<a target="_blank" rel="noopener noreferrer nofollow" >
+<a target="_blank" rel="noopener noreferrer nofollow" style="display: inline-block;" >
   <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=kongshier&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" style="max-width: 100%;"/>
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow">
+<a target="_blank" rel="noopener noreferrer nofollow" style="display: inline-block;">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongshier&layout=compact" style="max-width: 100%;" />
 </a> 
 
