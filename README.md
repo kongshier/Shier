@@ -12,10 +12,10 @@
 
 ## 技术栈
 ### 后端
-Java面向对象、JavaWeb、Sql Service、MySQL、Git、Maven管理工具、Spring、SpringMyBatis、SpringMyBatis-Plus、SpringBoot2、Spring Gateway、Redis、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试
+Java面向对象、JavaWeb、Sql Service、MySQL、Git、Maven管理工具、Spring、SpringMyBatis、SpringMyBatis-Plus、SpringBoot2、Spring Gateway、Redis、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试、Nodejs
 
 ### 前端
-HTML、CSS、JavaScript、Nodejs、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design Pro、Ant Design Vue、Ant Design React
+HTML、CSS、JavaScript、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design Pro、Ant Design Vue、Ant Design React
 
 ## GitHub汇总
 <a target="_blank" rel="noopener noreferrer nofollow" >
