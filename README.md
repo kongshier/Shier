@@ -1,8 +1,8 @@
-# 我是十二🐱
+# 👋我是🐱十二
 ## 一位知不足而奋斗，望远山而前行的Coder。
 
 - 🏡 状态：**大三在校生**
-- 👨‍💻 学习：**Java后端，了解前端**
+- 👨‍💻 方向：**Java后端，了解前端**
 - 📝 博客：[CSDN](https://blog.csdn.net/qq_56098191) | [十二博客](http://blog.kongshier.top)
 - 🙌 笔记：[笔记总结](https://www.yuque.com/kcsshier/zpovmy)
 - 📫 邮箱：**k2927527234@gmail.com | 2927527234@qq.com**
